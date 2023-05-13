@@ -1,6 +1,6 @@
 ---
 title: ABC301 C - AtCoder Cards
-date: 2023-5-14
+date: 2023-05-14
 draft: false
 summary: dictで落とすだけ
 tags: [ABC,ABC301,C,300点,Counter]
