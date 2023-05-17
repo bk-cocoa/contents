@@ -1,11 +1,12 @@
 ---
-title: ABC301 C - AtCoder Cards
+title: ABC301 E - Pac-Takahashi
 date: 2023-05-13
 draft: false
 summary: 全頂点間の距離を求めてbitDP
 tags: [ABC,ABC301,E,475点,bitDP]
 katex: math
 ---
+https://atcoder.jp/contests/abc301/tasks/abc301_e
 * 実装重いグリッド問題
 * 制約は緩め、やりたいことは簡単、実装がただ重い
 	* スタート、ゴール含めて必要な頂点は20箇所
